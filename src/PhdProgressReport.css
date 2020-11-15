@@ -1,0 +1,15 @@
+.pfield {
+	font-weight: bold;
+	width: 200px;
+	height: 30px;
+}
+
+.pvalue {
+	width: 200px;
+	height: 30px;
+	background-color: ;
+}
+
+.outerTable {
+	border: 1px solid black collapse;
+}

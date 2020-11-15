@@ -1,0 +1,27 @@
+.outerTable {
+	border: 1px solid black;
+	width: 90%;
+	margin: 20px;
+	border-collapse: collapse;
+}
+
+.innerTable {
+	border: 1px solid black;
+	width: 100%;
+}
+
+.pvalue {
+	text-align: left;
+}
+
+.pfield {
+	text-align: center;
+}
+
+.button {
+	background-color: #008CBA; /* blue */
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 4px;
+}

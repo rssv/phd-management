@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flexContainer {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: stretch;
+  height: 1200px;
+}
+
+.flexitem1 {
+  border-right: 1px solid black;
+  padding: 20px;
+  flex-grow: 1;
+  width: 15%;
+}
+
+.flexitem2 {
+  border-left: 1px solid black;
+  padding: 20px;
+  flex-grow: 4;
+  width: 85%;
+}
+
+.component {
+}
